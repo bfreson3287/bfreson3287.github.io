@@ -1,2 +1,1 @@
-# bfreson3287.github.io
-Static pages
+Static pages. Nothing to see here.
